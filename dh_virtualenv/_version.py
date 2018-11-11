@@ -8,6 +8,6 @@ maintained redundantly.
 """
 
 version = '1.2'
-author = u'Jyrki Pulliainen'
+author = 'Jyrki Pulliainen'
 author_email = 'jyrki@spotify.com'
 url = 'https://github.com/spotify/dh-virtualenv'

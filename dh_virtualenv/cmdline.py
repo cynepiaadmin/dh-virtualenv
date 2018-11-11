@@ -18,7 +18,7 @@
 # <http://www.gnu.org/licenses/>.
 
 """Helpers to handle debhelper command line options."""
-from __future__ import absolute_import
+
 
 import os
 import warnings
